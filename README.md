@@ -1,1 +1,1 @@
-# 6405_Gurkov_Bigdata
+# 6405_Гурков М.А._Bigdata
